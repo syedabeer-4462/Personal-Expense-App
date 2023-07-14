@@ -38,10 +38,6 @@ The Personal Expense App is built using the following technologies:
 
 Contributions to the Personal Expense App are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request on the [GitHub repository](https://github.com/your-username/personal_expense_app).
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgments
 
 We would like to thank the following resources for their contributions to this project:
